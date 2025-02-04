@@ -5,7 +5,7 @@ It serves as the core of the library system, managing books, authors.
 
 ## Features
 - **Book Management**: Add, update, delete, and view books.
-- **Search Functionality**: Search for books by title, author, ISBN, etc.
+- **Search Functionality**: Search for books by title or author.
 - **Pagination**: Paginated results for books to handle large datasets efficiently.
 - **API Endpoints**: Exposes RESTful APIs for interacting with the system.
 
